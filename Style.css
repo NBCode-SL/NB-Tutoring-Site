@@ -82,3 +82,14 @@ body {
     font-weight: bold;
     font-size: large;
 }
+
+#Algebra-1-curriculum table {
+    margin: 0 auto;
+    padding: 5px 5px;
+}
+
+#Algebra-1-curriculum td {
+    border: 2px solid black;
+    padding: 5px 5px;
+    margin: 5px auto;
+}

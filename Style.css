@@ -98,3 +98,13 @@ body {
     padding: 5px 5px;
     text-align: left;
 }
+
+.header-links a  button {
+    font-size: 20px;
+    padding: 10px 10px;
+    width: fit-content;
+    height: fit-content;
+    display: inline-block;
+    background-color:rgb(255, 255, 255);
+    border: 2px solid black;
+}
